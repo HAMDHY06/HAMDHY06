@@ -1,22 +1,16 @@
-<!-- ========================= -->
-
-<!--       HERO SECTION        -->
-
-<!-- ========================= -->
-
 <div align="center">
 
 # 👋 Hi, I'm **Hamdhy Farhan**
 
 ### 🔐 Cybersecurity Student • 💻 Developer • 🌐 IT Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Software+Development;Building+Secure+%26+Useful+Digital+Solutions;Mobile+App+%7C+Web+%7C+IT+%26+Networking;Founder+%40+HAMDHYTECH" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+%26+Learning+Every+Day;Cybersecurity+%7C+Development+%7C+Networking;Founder+%40+HAMDHYTECH" />
 
 <br>
 
-<a href="https://github.com/HAMDHY06">
-<img src="https://komarev.com/ghpvc/?username=HAMDHY06&label=Profile%20Views&color=00D9FF&style=flat-square" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-HAMDHY06-181717?style=flat-square&logo=github)](https://github.com/HAMDHY06)
+[![Website](https://img.shields.io/badge/HAMDHYTECH-00D9FF?style=flat-square&logo=google-chrome&logoColor=white)](https://ham-apk.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hamdhytech/)
 
 </div>
 
@@ -24,91 +18,33 @@
 
 ## 🧑‍💻 About Me
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  > whoami                                               │
-│                                                         │
-│  Hamdhy Farhan                                          │
-│  Cybersecurity Student & Software Developer             │
-│                                                         │
-│  🔐 Interested in Cybersecurity                         │
-│  💻 Building Web & Mobile Applications                  │
-│  🌐 IT Infrastructure & Networking                      │
-│  🚀 Building projects under HAMDHYTECH                  │
-│  🧠 Always learning something new                       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+I'm a **Cybersecurity student and developer** interested in building practical software and exploring how technology can be made more secure.
 
-I enjoy turning ideas into practical software and learning how technology works from both the **development** and **security** perspectives.
-
-My current focus is on **cybersecurity, application development, networking and IT solutions**.
+- 🔐 Cybersecurity & Ethical Hacking
+- 💻 Web & Mobile Development
+- 🌐 Networking & IT
+- 🚀 Building projects under **HAMDHYTECH**
 
 ---
 
-## ⚡ What I'm Working On
-
-* 🔐 Improving my **Cybersecurity** skills
-* 📱 Building **Android & mobile applications**
-* 🌐 Developing **web applications**
-* ☁️ Working with **Firebase & cloud technologies**
-* 🖥️ Exploring **IT infrastructure & networking**
-* 🚀 Building projects under **HAMDHYTECH**
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart,kotlin" />
-
-</p>
-
-### 🚀 Frameworks & Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,firebase,androidstudio" />
-
-</p>
-
-### 🔐 Cybersecurity / IT
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart,flutter,firebase,react,nodejs,linux,kali,git,github,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HAMDHY06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMDHY06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HAMDHY06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMDHY06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=HAMDHY06&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
 
@@ -120,70 +56,28 @@ My current focus is on **cybersecurity, application development, networking and 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMDHY06&repo=Leave-Managemnt&theme=tokyonight&hide_border=true" />
 </a>
 
-</p>
-
-<p align="center">
-
 <a href="https://github.com/HAMDHY06/HT-PEN-FIGHT">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMDHY06&repo=HT-PEN-FIGHT&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/HAMDHY06/EMOBILE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HAMDHY06&repo=EMOBILE&theme=tokyonight&hide_border=true" />
-</a>
-
 </p>
 
----
+<details>
+<summary>📁 View More Projects</summary>
 
-# 📈 My GitHub Activity
+<br>
 
-<p align="center">
+🔹 **EMOBILE** — Web project  
+🔹 **Portfolio** — Personal portfolio  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMDHY06&theme=tokyo-night&hide_border=true&area=true" />
-
-</p>
-
----
-
-# 🎯 Current Goals
-
-```text
-[████████████████░░░░] Cybersecurity
-[███████████████░░░░░] Software Development
-[██████████████░░░░░░] Networking
-[████████████░░░░░░░░] Cloud & Firebase
-[███████████░░░░░░░░░] Open Source
-```
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/HAMDHY06">
-<img src="https://img.shields.io/badge/GitHub-HAMDHY06-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/hamdhytech/">
-<img src="https://img.shields.io/badge/LinkedIn-Hamdhy%20Farhan-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://ham-apk.web.app/">
-<img src="https://img.shields.io/badge/Website-HAMDHYTECH-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</p>
+</details>
 
 ---
 
 <div align="center">
 
-### 💡 *"Build. Break. Learn. Secure. Repeat."*
+### `> Build • Learn • Secure • Repeat_`
 
-<br>
-
-⭐ **If you find my projects useful, consider giving them a star!**
+⭐ Thanks for visiting my profile!
 
 </div>
