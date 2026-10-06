@@ -24,7 +24,7 @@ I'm an IT undergraduate specializing in **Cybersecurity and Software Development
 *   🔐 **Focus:** Ethical Hacking, Network Administration, & Penetration Testing
 *   💻 **Development:** Crafting web and mobile solutions (like *Smart Leave Manager*) under **HAMDHYTECH**
 *   🎓 **Academics:** Preparing for a cybersecurity top-up degree
-*   📫 **Connect with me:**Dev.Hamdhytech@gmail.com
+*   📫 **Connect with me:** Dev.Hamdhytech@gmail.com
 
 ---
 
